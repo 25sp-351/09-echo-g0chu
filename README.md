@@ -9,4 +9,5 @@ Program is multi-threaded and can handle multiple connections at the same time.
 ![Image of client-side terminal output](https://i.imgur.com/eRAHIsn.png)
 
 2. Server
+
 ![Image of server-side terminal output](https://i.imgur.com/JorapzF.png)
